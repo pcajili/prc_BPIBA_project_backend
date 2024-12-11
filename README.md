@@ -1,6 +1,7 @@
 # prc_BPIBA_project_backend
 Final project for Bayan Academy
-.
+
+```.
 |-- controllers
 |   `-- controller.js
 |-- index.js
@@ -20,5 +21,5 @@ Final project for Bayan Academy
     |   |-- head.ejs
     |   `-- header.ejs
     `-- read_item.ejs
-
+```
 
