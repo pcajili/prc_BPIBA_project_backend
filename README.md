@@ -2,15 +2,13 @@
 Final project for Bayan Academy
 
 ```.
+|-- index.js
+|-- package.json
+|-- package-lock.json
 |-- controllers
 |   `-- controller.js
-|-- index.js
-|-- inventoryDB.items.json
 |-- models
 |   `-- item.js
-|-- package-lock.json
-|-- package.json
-|-- tree.zip
 `-- views
     |-- add_item.ejs
     |-- edit_item.ejs
