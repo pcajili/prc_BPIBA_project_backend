@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "675989090bf63509932edc5f"
+  },
+  "_uuid": "0",
+  "name": "Phone",
+  "category": "Electronics",
+  "quantity": 1,
+  "price": 30,
+  "description": "Includes consumer electronics like smartphones, laptops, and televisions, as well as electronic components.",
+  "createdAt": "2024-12-01T10:00:00.000+00:00"
+},
+{
+  "_id": {
+    "$oid": "675989090bf63509932edc60"
+  },
+  "_uuid": "1",
+  "name": "Socks",
+  "category": "Clothing and Apparel",
+  "quantity": 2,
+  "price": 25,
+  "description": "Covers various types of clothing for men, women, and children, including accessories.",
+  "createdAt": "2024-11-15T14:30:00.000+00:00"
+},
+{
+  "_id": {
+    "$oid": "675989090bf63509932edc61"
+  },
+  "_uuid": "2",
+  "name": "Beer",
+  "category": "Food and Beverages",
+  "quantity": 3,
+  "price": 35,
+  "description": "Encompasses perishable goods (fresh produce, dairy) and non-perishable items (canned foods, snacks).",
+  "createdAt": "2024-10-05T09:15:00.000+00:00"
+},
+{
+  "_id": {
+    "$oid": "675989090bf63509932edc62"
+  },
+  "_uuid": "3",
+  "name": "Chair",
+  "category": "Furniture and Home Goods",
+  "quantity": 4,
+  "price": 20,
+  "description": "Consists of living room, bedroom, and kitchen furniture, along with home décor items.",
+  "createdAt": "2024-09-20T11:45:00.000+00:00"
+},
+{
+  "_id": {
+    "$oid": "675989090bf63509932edc63"
+  },
+  "_uuid": "4",
+  "name": "Face Mask",
+  "category": "Health and Beauty Products",
+  "quantity": 5,
+  "price": 40,
+  "description": "Includes cosmetics, skincare items, and personal care products like shampoos and soaps.",
+  "createdAt": "2024-08-30T08:00:00.000+00:00"
+},
+{
+  "_id": {
+    "$oid": "675989090bf63509932edc64"
+  },
+  "_uuid": "5",
+  "name": "Prepaid Load",
+  "category": "Others",
+  "quantity": 6,
+  "price": 15,
+  "description": "test only",
+  "createdAt": "2024-07-30T08:00:00.000+00:00"
+},
+{
+  "_id": {
+    "$oid": "67598b64175dd92b2e537db6"
+  },
+  "_uuid": "4c96d81c-371d-4c0f-b82a-840cd5823656",
+  "name": "Chicken Wings",
+  "category": "Food and Beverages",
+  "quantity": 100,
+  "price": 500.5,
+  "description": "test",
+  "createdAt": {
+    "$date": "2024-12-11T12:53:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675992accb35f97bb0a27392"
+  },
+  "_uuid": "9d92fa7f-399a-4fcd-8c33-624c682d302b",
+  "name": "Chips",
+  "category": "Others",
+  "quantity": 4,
+  "price": 12,
+  "description": "For testing only",
+  "createdAt": {
+    "$date": "2024-12-11T13:24:00.000Z"
+  },
+  "__v": 0
+}]
